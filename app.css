@@ -1,0 +1,28 @@
+.box1 {
+	background-color: #FF0000;
+	height: 200px;
+	width: 200px;
+}
+
+.box2 {
+	background-color: #FF0000;
+	height: 200px;
+	width: 200px;
+	margin-top: 20px;
+}
+
+.box2-ext {
+	border: 10px solid black;
+}
+
+.box3 {
+	background-color: #FF0000;
+	height: 200px;
+	width: 200px;
+	margin-top: 20px;
+}
+
+.box3-ext {
+	background-color: #0000FF;
+	border: 10px solid black;
+}
